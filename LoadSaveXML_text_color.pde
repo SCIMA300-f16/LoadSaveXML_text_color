@@ -23,7 +23,7 @@ int typedCount;
 color c = color(255);
 
 void setup() {
-  size(640, 360);
+  size(600, 600);
   loadData();
 }
 
@@ -91,7 +91,7 @@ void mousePressed() {
   // Set the diameter element
   XML diameter = bubble.addChild("diameter");
   // Here for a node's content, we have to convert to a String
-  diameter.setFloatContent(random(40, 80));
+  diameter.setFloatContent(random(100, 200));
 
   // Set a label
   XML label = bubble.addChild("label");

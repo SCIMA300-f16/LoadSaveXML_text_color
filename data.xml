@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bubbles>
+  <bubble>
+    <position x="348" y="351"/>
+    <diameter>160.0029</diameter>
+    <label>calm</label>
+  </bubble>
+  <bubble>
+    <position x="58" y="329"/>
+    <diameter>153.34584</diameter>
+    <label>sad</label>
+  </bubble>
+  <bubble>
+    <position x="451" y="63"/>
+    <diameter>171.48059</diameter>
+    <label>happy</label>
+  </bubble>
+  <bubble>
+    <position x="231" y="368"/>
+    <diameter>107.6539</diameter>
+    <label/>
+  </bubble>
+  <bubble>
+    <position x="220" y="317"/>
+    <diameter>140.90112</diameter>
+    <label/>
+  </bubble>
+  <bubble>
+    <position x="330" y="234"/>
+    <diameter>131.76357</diameter>
+    <label/>
+  </bubble>
+  <bubble>
+    <position x="127" y="245"/>
+    <diameter>181.90117</diameter>
+    <label/>
+  </bubble>
+  <bubble>
+    <position x="301" y="108"/>
+    <diameter>121.51877</diameter>
+    <label/>
+  </bubble>
+  <bubble>
+    <position x="171" y="48"/>
+    <diameter>178.93661</diameter>
+    <label/>
+  </bubble>
+  <bubble>
+    <position x="152" y="53"/>
+    <diameter>125.7023</diameter>
+    <label/>
+  </bubble>
+</bubbles>
